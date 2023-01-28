@@ -8,7 +8,7 @@ import TooltipComponent from "../Tooltip";
 export enum ENTITY_TYPE {
   ACTION = "ACTION",
   WIDGET = "WIDGET",
-  APPSMITH = "APPSMITH",
+  DPLAT = "DPLAT",
   JSACTION = "JSACTION",
 }
 
