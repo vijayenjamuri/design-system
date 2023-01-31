@@ -1,1 +1,0 @@
-module.exports = require('./packages/design-system-old/src/index.ts');
